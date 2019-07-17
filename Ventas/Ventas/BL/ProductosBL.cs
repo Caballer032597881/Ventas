@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ventas
+namespace Ventas.BL
 {
-   public class Categoria
+    class ProductosBL
     {
-        public int Id { get; set; }
-        public string Nombre { get; set; }
     }
 }
